@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+
+'''
+Let int_seq be a string that contains a sequence of non-negative
+    integers separated by commas and subtotal a non-negative integer.
+
 Design a function ex1(int_seq, subtotal) that:
     – takes as parameters 
       a string (int_seq) and a positive integer (subtotal >= 0), and 
@@ -66,5 +72,7 @@ def ex1(int_seq, subtotal):
     
 if __name__ == '__main__':
     pass
+    
+
     
 
